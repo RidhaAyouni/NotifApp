@@ -1,0 +1,4 @@
+# Example .gitignore content
+__pycache__/
+rd/
+*.pyc
